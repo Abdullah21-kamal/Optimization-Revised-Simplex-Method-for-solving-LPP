@@ -1,7 +1,7 @@
 # Linear and Nonlinear Programming - Optimization
 
-#Revised-Simplex-Method-for-solving-LPP
-## The report includes the following:
+## Revised-Simplex-Method-for-solving-LPP
+### The report includes the following:
 1. Motivation
 2. Theory
 3. Algorithm
